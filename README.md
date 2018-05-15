@@ -9,4 +9,8 @@ This implementation uses an additional operator for managing padding, which can 
 currently only CPU version of OP is implemented.
 
 
-![Alt text](SampleOutput/img.jpg "Input")
+
+<p align="center">
+  <img src="SampleOutput/img.jpg" width="350"/>
+  <img src="SampleOutput/lable.jpg" width="350"/>
+</p>
