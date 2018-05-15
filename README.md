@@ -8,3 +8,5 @@ Output is 21 category semeantic lables as in [Pascal VOC](https://github.com/NVI
 This implementation uses an additional operator for managing padding, which can be found in 'customOP' folder. Library for the same is provided in 'OpLibs_CPU'.
 currently only CPU version of OP is implemented.
 
+
+![Alt text](SampleOutput/img.jpg "Input")
