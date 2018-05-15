@@ -8,8 +8,8 @@ Output Dims: 65, 65.
 
 
 # note
-This implementation uses an additional operator for managing padding, which can be found in 'customOP' folder. Library for the same is provided in 'OpLibs_CPU'.
-currently only CPU version of OP is implemented.
+This implementation uses an additional operator for managing padding, which can be found in 'customOP' folder. Library for the same is provided in 'OpLibs_CPU'. 
+Currently only CPU version of OP is implemented.
 
 # sample result
 <p align="center">
