@@ -41,6 +41,8 @@ with core.DeviceScope(core.DeviceOption(caffe2_pb2.CPU, 0)):
         inpImg = cv2.imread(inpImgStr)
         inpImg = cv2.resize(inpImg, (IMG_S, IMG_S))
         inpImg = np.array(inpImg,dtype=np.float32)
+        inpImg = inpImg.transpose((2, 0, 1))
+
 
         inpImg = inpImg / 0.007843137718737125;
         inpImg = inpImg - 1;
