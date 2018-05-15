@@ -4,8 +4,8 @@
 
 As in TF, the input is transformed as (img = img/127 - 1) to bring in range [-1, 1]. 
 Output is 21 category semeantic lables as in [Pascal VOC](https://github.com/NVIDIA/DIGITS/blob/master/examples/semantic-segmentation/pascal-voc-classes.txt).  
-Input Dim: 513, 513.  
-Output Dims: 65, 65.  
+Input resolution : 513, 513.  
+Output resolution: 65, 65.  
 
 
 
