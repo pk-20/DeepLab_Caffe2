@@ -20,4 +20,5 @@ Currently only CPU version of OP is implemented.
   <img src="SampleOutput/lable.jpg" width="200"/>
 </p>
 This Mobile Net version is good for implementation on mobile devices.  
+
 Xception Net version gives even better accuracy at cost of model size.  
