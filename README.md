@@ -11,6 +11,8 @@ currently only CPU version of OP is implemented.
 
 
 <p align="center">
-  <img src="SampleOutput/img.jpg" width="350"/>
-  <img src="SampleOutput/lable.jpg" width="350"/>
+  <img src="SampleOutput/img.jpg" width="300"/>
+  <img src="SampleOutput/lable.jpg" width="300"/>
+  <img src="SampleOutput/visualize.jpg" width="300"/>
+  
 </p>
