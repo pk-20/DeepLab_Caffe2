@@ -21,4 +21,4 @@ Currently only CPU version of OP is implemented.
 </p>
 -This Mobile Net version is good for implementation on mobile devices with model size around 10MB.  
 
--Xception Net version (not currently ported) gives even better accuracy at cost of model size and processing time.  
+-Xception Net version (not currently ported) gives better accuracy at cost of model size and processing time.  
