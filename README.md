@@ -1,5 +1,8 @@
 # DeepLab_Caffe2
-[Googles DeepLab](https://github.com/tensorflow/models/tree/master/research/deeplab) Semantic Segmentation (MobileNet version) ported from TensorFlow to Caffe2.  
+
+[DeepLab](https://github.com/tensorflow/models/tree/master/research/deeplab) is Deep Semantic Segmentation project from Google. It currently supports two networks (MobileNetV2 and Xception), and are implementeds in TensorFlow.
+
+In this project, [Googles DeepLab](https://github.com/tensorflow/models/tree/master/research/deeplab) Semantic Segmentation (MobileNet version) is ported from TensorFlow to Caffe2(which is more embeded friendly).  
 
 
 As in TF, the input is transformed as (img = img/127 - 1) to bring in range [-1, 1]. 
